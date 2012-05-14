@@ -1,1 +1,1 @@
-ConnectSix is a simple strategy game for two players.
+[ConnectSix](http://en.wikipedia.org/wiki/Connect6) is a simple strategy game for two players.
